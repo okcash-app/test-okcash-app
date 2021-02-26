@@ -1,0 +1,39 @@
+{
+  "files": {
+    "static/js/0.674aa6fd.chunk.js": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/0.674aa6fd.chunk.js",
+    "main.css": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/css/main.8b4c1f8b.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/main.cbd9406f.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/runtime-main.2493bdfd.js",
+    "static/js/3.7653c520.chunk.js": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/3.7653c520.chunk.js",
+    "static/js/4.de6a66cc.chunk.js": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/4.de6a66cc.chunk.js",
+    "static/js/5.7056017e.chunk.js": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/5.7056017e.chunk.js",
+    "static/js/6.7d976482.chunk.js": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/6.7d976482.chunk.js",
+    "static/js/7.158310fb.chunk.js": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/7.158310fb.chunk.js",
+    "static/js/8.d9c30432.chunk.js": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/8.d9c30432.chunk.js",
+    "static/js/9.911d2cd1.chunk.js": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/9.911d2cd1.chunk.js",
+    "static/js/10.b6927020.chunk.js": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/10.b6927020.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/index.html",
+    "precache-manifest.86015a443f205154272d68a13a8f621c.js": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/precache-manifest.86015a443f205154272d68a13a8f621c.js",
+    "service-worker.js": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/service-worker.js",
+    "static/js/3.7653c520.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/3.7653c520.chunk.js.LICENSE.txt",
+    "static/js/5.7056017e.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/5.7056017e.chunk.js.LICENSE.txt",
+    "static/js/6.7d976482.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/6.7d976482.chunk.js.LICENSE.txt",
+    "static/js/7.158310fb.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/7.158310fb.chunk.js.LICENSE.txt",
+    "static/js/8.d9c30432.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/js/8.d9c30432.chunk.js.LICENSE.txt",
+    "static/media/DAI.png": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/media/DAI.17db7fc2.png",
+    "static/media/USDC.png": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/media/USDC.c76b33ca.png",
+    "static/media/USDT.png": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/media/USDT.839a0f0d.png",
+    "static/media/index.css": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/media/basis-bg.240bfbe4.jpg",
+    "static/media/basis-bond-logo.png": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/media/basis-bond-logo.85e3bd0d.png",
+    "static/media/basis-cash-logo.png": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/media/basis-cash-logo.7e7eab29.png",
+    "static/media/basis-share-logo.png": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/media/basis-share-logo.e6cecd78.png",
+    "static/media/sUSD.png": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/media/sUSD.f8fec857.png",
+    "static/media/ycrv.png": "https://cdn.jsdelivr.net/gh/okcash-app/test-okcash-app@0.0.1/static/media/ycrv.88ae1ab3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2493bdfd.js",
+    "static/js/3.7653c520.chunk.js",
+    "static/css/main.8b4c1f8b.chunk.css",
+    "static/js/main.cbd9406f.chunk.js"
+  ]
+}
