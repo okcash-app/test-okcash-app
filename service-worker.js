@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://cdn.jsdelivr.net/gh/stcash-app/stcash-app@20210401-103434/precache-manifest.8609fc16a6e337aadd5b167ce6ba80c3.js"
+  "https://cdn.jsdelivr.net/gh/stcash-app/stcash-app@20210401-114557/precache-manifest.6ea2234a425052cd53500b85ee29eee2.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("https://cdn.jsdelivr.net/gh/stcash-app/stcash-app@20210401-103434/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("https://cdn.jsdelivr.net/gh/stcash-app/stcash-app@20210401-114557/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
